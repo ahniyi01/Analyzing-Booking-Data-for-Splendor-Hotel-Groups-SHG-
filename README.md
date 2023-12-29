@@ -177,3 +177,7 @@ _The Hotel group needs to discourage booking cancellation. Guests should be made
 ![image](https://github.com/ahniyi01/Analyzing-Booking-Data-for-Splendor-Hotel-Groups-SHG-/assets/140920419/50ff09ff-f088-4cd0-814e-ea068e27fbf6)
 
 Corporate Booking account for **6%** of the total booking. Average Daily Rate (ADR) for booking through corporate channel is **$69.33**. Overall ADR is **$101.83**. The ADR for bookings through corporate is **$32.50** lower than the overall ADR.
+
+
+My final dynamic Excel Dashboard looks like this. 
+![image](https://github.com/ahniyi01/Analyzing-Booking-Data-for-Splendor-Hotel-Groups-SHG-/assets/140920419/2fb8a1ea-cd1b-490f-b3da-6636b42c95cb)
